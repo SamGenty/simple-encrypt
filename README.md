@@ -27,8 +27,10 @@ s *
 ```
 
 -------
-All letter "e" are replaced with "~"
-All letter "t" are replaced with "#" and so on.
+All letter "e"'s are replaced with "~"
+
+All letter "t"'s are replaced with "#" and so on.
+
 There is no limit to the number of pairs in the encryption key file.
 
 #Example Input
